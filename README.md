@@ -9,4 +9,4 @@ The app also features a ringtone to indicate an incoming call, and a screen shar
 
 Whether you're working remotely, keeping in touch with friends and family, or conducting a business meeting, Video Call App is the perfect tool for real-time communication.
 
-![video-call](https://user-images.githubusercontent.com/36006908/215325349-aec87736-524a-4b40-ac0a-27bad593f4c9.png)
+![video-call](https://drive.google.com/file/d/1QrAWErwfNLbDBZ0JNV58vaL7iOXZ_32t/view?usp=sharing)
